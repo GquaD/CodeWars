@@ -4,6 +4,7 @@ package kyu4;
  * Created by Behzod on 18, December, 2019
  */
 public class ShortestKnightPath {
+    //NOT solved yet
     public static void main(String[] args) {
 
     }

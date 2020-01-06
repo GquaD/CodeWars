@@ -8,6 +8,7 @@ import java.util.Map;
  * Created by Behzod on 20, December, 2019
  */
 public class SumOfIntervals {
+    //NOT solved yet
     public static void main(String[] args) {
         System.out.println(sumIntervals(new int[][]{{1, 3}, {4, 8}, {1, 5}}));
     }
