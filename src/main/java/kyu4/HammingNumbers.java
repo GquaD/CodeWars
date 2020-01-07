@@ -46,6 +46,8 @@ public class HammingNumbers {
         double result = Math.pow(2, i) * Math.pow(3, j) * Math.pow(5, k);
         return (long) result;
     }
+
+
 //someone's clever solution
     public static long hamming1(int n) {
         long[] h = new long[n];
